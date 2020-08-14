@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6603b779-7271-418d-a3b7-5efb6712f755" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/annotation-processing/src/main/java/com/baeldung/annotation/processor/LocaleField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation-processing/src/main/java/com/baeldung/annotation/processor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation-processing/src/main/java/com/baeldung/annotation/processor/MessageEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation-processing/src/main/java/com/baeldung/annotation/processor/MyValueVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation-processing/src/main/java/com/baeldung/annotation/processor/PayModes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/annotation-processing/src/main/java/com/baeldung/annotation/processor/BuilderProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/annotation-processing/src/main/java/com/baeldung/annotation/processor/BuilderProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/annotation-processing/src/main/java/com/baeldung/annotation/processor/BuilderProperty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/annotation-user/src/main/java/com/baeldung/annotation/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/annotation-user/src/main/java/com/baeldung/annotation/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/annotation-user/src/test/java/com/baeldung/annotation/PersonBuilderUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/annotation-user/src/test/java/com/baeldung/annotation/PersonBuilderUnitTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fzVo4w1jcDqYnTUI8QLugFwT5q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../annotations" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.baeldung.annotation.processor" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.annotations [clean,install]">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baeldung.annotation.processor.Main" />
+      <module name="annotation-processing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baeldung.annotation.processor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="annotations [clean,install]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Maven.annotations [clean,install]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6603b779-7271-418d-a3b7-5efb6712f755" name="Default Changelist" comment="" />
+      <created>1597221080718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597221080718</updated>
+      <workItem from="1597221081825" duration="2684000" />
+      <workItem from="1597224332009" duration="41612000" />
+      <workItem from="1597408046722" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597388717718">
+      <screen x="0" y="27" width="1366" height="682" />
+    </state>
+    <state x="141" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.682@0.27.1366.682" timestamp="1597388717718" />
+    <state x="364" y="169" width="628" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597299118816">
+      <screen x="0" y="27" width="1366" height="682" />
+    </state>
+    <state x="364" y="169" width="628" height="396" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.682@0.27.1366.682" timestamp="1597299118816" />
+    <state x="491" y="74" width="374" height="585" key="#com.intellij.ide.util.MemberChooser" timestamp="1597226917069">
+      <screen x="0" y="27" width="1366" height="682" />
+    </state>
+    <state x="491" y="74" width="374" height="585" key="#com.intellij.ide.util.MemberChooser/0.27.1366.682@0.27.1366.682" timestamp="1597226917069" />
+    <state x="419" y="27" width="518" height="682" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597404077765">
+      <screen x="0" y="27" width="1366" height="682" />
+    </state>
+    <state x="419" y="27" width="518" height="682" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1366.682@0.27.1366.682" timestamp="1597404077765" />
+    <state x="718" y="198" key="#xdebugger.evaluate" timestamp="1597407832092">
+      <screen x="0" y="27" width="1366" height="682" />
+    </state>
+    <state x="718" y="198" key="#xdebugger.evaluate/0.27.1366.682@0.27.1366.682" timestamp="1597407832092" />
+    <state width="543" height="490" key="DebuggerActiveHint" timestamp="1597393493114">
+      <screen x="0" y="27" width="1366" height="682" />
+    </state>
+    <state width="543" height="490" key="DebuggerActiveHint/0.27.1366.682@0.27.1366.682" timestamp="1597393493114" />
+    <state x="466" y="126" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597408062796">
+      <screen x="0" y="27" width="1366" height="682" />
+    </state>
+    <state x="466" y="126" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.682@0.27.1366.682" timestamp="1597408062796" />
+    <state width="1320" height="244" key="GridCell.Tab.0.bottom" timestamp="1597408025387">
+      <screen x="0" y="27" width="1366" height="682" />
+    </state>
+    <state width="1320" height="244" key="GridCell.Tab.0.bottom/0.27.1366.682@0.27.1366.682" timestamp="1597408025387" />
+    <state width="1320" height="244" key="GridCell.Tab.0.center" timestamp="1597408025384">
+      <screen x="0" y="27" width="1366" height="682" />
+    </state>
+    <state width="1320" height="244" key="GridCell.Tab.0.center/0.27.1366.682@0.27.1366.682" timestamp="1597408025384" />
+    <state width="1320" height="244" key="GridCell.Tab.0.left" timestamp="1597408025384">
+      <screen x="0" y="27" width="1366" height="682" />
+    </state>
+    <state width="1320" height="244" key="GridCell.Tab.0.left/0.27.1366.682@0.27.1366.682" timestamp="1597408025384" />
+    <state width="1320" height="244" key="GridCell.Tab.0.right" timestamp="1597408025385">
+      <screen x="0" y="27" width="1366" height="682" />
+    </state>
+    <state width="1320" height="244" key="GridCell.Tab.0.right/0.27.1366.682@0.27.1366.682" timestamp="1597408025385" />
+    <state width="1320" height="244" key="GridCell.Tab.1.bottom" timestamp="1597408025395">
+      <screen x="0" y="27" width="1366" height="682" />
+    </state>
+    <state width="1320" height="244" key="GridCell.Tab.1.bottom/0.27.1366.682@0.27.1366.682" timestamp="1597408025395" />
+    <state width="1320" height="244" key="GridCell.Tab.1.center" timestamp="1597408025394">
+      <screen x="0" y="27" width="1366" height="682" />
+    </state>
+    <state width="1320" height="244" key="GridCell.Tab.1.center/0.27.1366.682@0.27.1366.682" timestamp="1597408025394" />
+    <state width="1320" height="244" key="GridCell.Tab.1.left" timestamp="1597408025394">
+      <screen x="0" y="27" width="1366" height="682" />
+    </state>
+    <state width="1320" height="244" key="GridCell.Tab.1.left/0.27.1366.682@0.27.1366.682" timestamp="1597408025394" />
+    <state width="1320" height="244" key="GridCell.Tab.1.right" timestamp="1597408025394">
+      <screen x="0" y="27" width="1366" height="682" />
+    </state>
+    <state width="1320" height="244" key="GridCell.Tab.1.right/0.27.1366.682@0.27.1366.682" timestamp="1597408025394" />
+    <state x="172" y="27" width="1012" height="682" key="SettingsEditor" timestamp="1597407007307">
+      <screen x="0" y="27" width="1366" height="682" />
+    </state>
+    <state x="172" y="27" width="1012" height="682" key="SettingsEditor/0.27.1366.682@0.27.1366.682" timestamp="1597407007307" />
+    <state width="510" height="446" key="SwitcherDM" timestamp="1597406200536">
+      <screen x="0" y="27" width="1366" height="682" />
+    </state>
+    <state width="510" height="446" key="SwitcherDM/0.27.1366.682@0.27.1366.682" timestamp="1597406200536" />
+    <state x="373" y="27" width="711" height="682" key="find.popup" timestamp="1597406918612">
+      <screen x="0" y="27" width="1366" height="682" />
+    </state>
+    <state x="373" y="27" width="711" height="682" key="find.popup/0.27.1366.682@0.27.1366.682" timestamp="1597406918612" />
+    <state x="346" y="30" width="672" height="678" key="search.everywhere.popup" timestamp="1597300126494">
+      <screen x="0" y="27" width="1366" height="682" />
+    </state>
+    <state x="346" y="30" width="672" height="678" key="search.everywhere.popup/0.27.1366.682@0.27.1366.682" timestamp="1597300126494" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/annotation-processing/src/main/java/com/baeldung/annotation/processor/Main.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/annotation-processing/src/main/java/com/baeldung/annotation/processor/BuilderProcessor.java</url>
+          <line>56</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.jdks/openjdk-14.0.2/lib/src.zip!/java.base/sun/reflect/annotation/AnnotationInvocationHandler.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.jdks/openjdk-14.0.2/lib/src.zip!/jdk.compiler/com/sun/tools/javac/model/AnnotationProxyMaker.java</url>
+          <line>309</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.jdks/openjdk-14.0.2/lib/src.zip!/jdk.compiler/com/sun/tools/javac/model/AnnotationProxyMaker.java</url>
+          <line>355</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/annotation-processing/src/main/java/com/baeldung/annotation/processor/MyValueVisitor.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/annotation-processing/src/main/java/com/baeldung/annotation/processor/BuilderProcessor.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/annotation-processing/src/main/java/com/baeldung/annotation/processor/BuilderProcessor.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.sun.tools.javac.code.Symbol$ClassSymbol" memberName="kind" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>

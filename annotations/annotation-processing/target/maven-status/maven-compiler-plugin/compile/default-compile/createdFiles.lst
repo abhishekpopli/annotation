@@ -1,0 +1,7 @@
+com/baeldung/annotation/processor/LocaleField.class
+com/baeldung/annotation/processor/PayModes.class
+META-INF/services/javax.annotation.processing.Processor
+com/baeldung/annotation/processor/MyValueVisitor.class
+com/baeldung/annotation/processor/MessageEnum.class
+com/baeldung/annotation/processor/BuilderProcessor.class
+com/baeldung/annotation/processor/Main.class
